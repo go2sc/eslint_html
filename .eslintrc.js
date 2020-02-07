@@ -15,5 +15,6 @@ module.exports = {
   },
   'plugins': ['html'],
   'rules': {
+    semi: ['error', 'never']
   },
 };
