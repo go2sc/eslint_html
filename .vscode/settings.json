@@ -1,0 +1,8 @@
+{
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify",
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        }
+    }
+}
